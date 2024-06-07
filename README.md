@@ -4,7 +4,6 @@
 - Database: MongoDB
 - Full Stack Development: MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - Data Structures and Algorithms
-- Version Control: Git, GitHub
 - Problem Solving
 - Software Development
 - programming languages: Python, c , java
