@@ -7,6 +7,7 @@
 - Problem Solving
 - Software Development
 - programming languages: Python, c , java
+
 Excited to delve deeper into full-stack development and build exciting projects!.
 
 Feel free to reach out to me:
